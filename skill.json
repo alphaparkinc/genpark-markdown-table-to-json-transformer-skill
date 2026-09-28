@@ -1,0 +1,26 @@
+{
+  "name": "genpark-markdown-table-to-json-transformer-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency Markdown table to structured JSON transformer with automated column type inference and format normalization.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "table-transformer",
+    "markdown-table",
+    "json-converter",
+    "type-inference",
+    "data-extraction",
+    "zero-dependency",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "transform_table",
+      "description": "Transform pipe-delimited markdown table into structured JSON."
+    },
+    {
+      "name": "run_benchmark_table_transformer",
+      "description": "Run markdown table transformer benchmark."
+    }
+  ]
+}
